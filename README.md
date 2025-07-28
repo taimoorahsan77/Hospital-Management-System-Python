@@ -1,3 +1,5 @@
+# Hospital Management System
+
 The Hospital Management System is a console-based application developed in Python designed to facilitate the efficient management of various aspects within a hospital environment. It provides functionalities for administrators, patient records, doctor information, nurse details, and medical record keeping, ensuring organized and accessible data management through file I/O.
 
 # Features:
